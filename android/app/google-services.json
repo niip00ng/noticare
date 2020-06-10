@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614674374710",
+    "firebase_url": "https://noticare-2970f.firebaseio.com",
+    "project_id": "noticare-2970f",
+    "storage_bucket": "noticare-2970f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614674374710:android:523b38929764e2e3a57897",
+        "android_client_info": {
+          "package_name": "com.noticare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614674374710-mbt1klel63plf05q9hdek6bnoudn7fen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCB2q4l6yR5frKYWdq2OShO0YdhxW5HgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614674374710-mbt1klel63plf05q9hdek6bnoudn7fen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
